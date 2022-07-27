@@ -2,7 +2,7 @@
 - 🌱 I’m currently a B.Tech. major from Elecrical & Electronics Engineering
 - 💞️ I’m looking to work on open source projects focussed on VLSI domain
 - 📫 My Socials:-https://www.instagram.com/roshankumar_16/
--                https://www.linkedin.com/in/roshan-kumar-715975200/
+-                
 -  
 
 <!---
